@@ -1,2 +1,2 @@
 # Web-scraping
-This repository contains the source code and data of website that are scraped using powerful framework of python that is Scrapy.
+Repository contains the source code and scraped data from websites in different format that are scraped using different powerful frameworks of python. These frameworks includes requests, Beautiful Soup, Selenium, and Scrapy.
